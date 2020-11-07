@@ -4,4 +4,4 @@
 > This is my first site so don't judge me harshly 😋 <br>
 > I hope you enjoy it 😙
 ## Screenshots
-![home](https://prnt.sc/vf7jqv)
+![home](https://wmpics.pics/di-N0NW.png)

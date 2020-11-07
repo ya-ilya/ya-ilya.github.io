@@ -1,4 +1,4 @@
-![donwloads](https://img.shields.io/github/downloads/ya-ilya/ya-ilya.github.io/total)
+![donwloads](https://img.shields.io/github/downloads/ya-ilya/ya-ilya.github.io/total) ![license](https://img.shields.io/github/license/ya-ilya/ya-ilya.github.io)
 # ya-ilya website
 ## Info
 > This is not a skid, all the code is written by me 😑 <br>

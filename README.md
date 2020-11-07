@@ -1,3 +1,4 @@
+![donwloads](https://img.shields.io/github/downloads/ya-ilya/ya-ilya.github.io/total)
 # ya-ilya website
 ## Info
 > This is not a skid, all the code is written by me 😑 <br>

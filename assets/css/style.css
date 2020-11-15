@@ -303,3 +303,75 @@ a.idTop:hover {
 
     text-align: center;
 }
+
+/*Python-Game*/
+.python {
+    padding: 40px 0;
+
+    background-color: lavender;
+}
+
+.python__header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 40px;
+
+    text-align: center;
+}
+.python__title {
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    
+    text-transform: uppercase;
+}
+
+.python__title::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 4px;
+    margin: 20px auto;
+
+    background-color: black;
+}
+
+.python__text {
+    font-size: 22px;
+    font-weight: 700;
+
+    color: black;
+}
+
+.python__subtext {
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+}
+
+.python__subtext::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 4px;
+    margin: 20px auto;
+
+    background-color: black;
+}
+
+
+.python__subsubtext {
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+}
+
+.python__image {
+    height: 300px;
+    width: 600px;
+}
+
+.python__imagetwo {
+    height: 300px;
+    width: 600px;
+}

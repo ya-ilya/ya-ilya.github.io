@@ -1,4 +1,4 @@
-![license](https://img.shields.io/github/license/ya-ilya/ya-ilya.github.io)
+[LICENSE](https://github.com/ya-ilya/ya-ilya.github.io/blob/main/LICENSE)
 # ya-ilya website
 ## Info
 > This is not a skid, all the code is written by me 😑 <br>
